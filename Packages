@@ -1,0 +1,130 @@
+Package: com.longmen06.AutoTouch.ios8.inputtext
+Architecture: iphoneos-arm
+Version: 6.1.8-2
+Priority: optional
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: net.kenhtao.autotouch, net.kenhtao.libat, net.kenhtao.autotouch.inputtext, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, com.ongcenh.autotouch, com.ongcenh.libat
+Filename: ./DEB/com.longmen06.AutoTouch.ios8.inputtext_6.1.8-2_iphoneos-arm.deb
+Size: 44502588
+MD5sum: 10932a0f8caec4d81be69ea89f9acc9c
+SHA1: 9dafba1728fc0c5a2be74ac006d53d1e1eff943c
+SHA256: a1ab8b9cd2595bf379e74d27c16565c13e8b26559cfbbe07081dfeeab1c360ca
+SHA512: 7ee71c9c06eb9dad1247cb6b690268b3fba4a82e42b3bd7c09adb01d3c00af13c1909537a9364a5a11efbb407626df7f88200776cd9ec1d37332ea9ce04561a3
+Description: AutoClick cho iOS.
+Name: AutoTouch with inputText 2
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
+
+Package: com.longmen06.a-font
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2380
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./DEB/com.longmen06.a-font_1.9.3_iphoneos-arm.deb
+Size: 869202
+MD5sum: 36db137e68f193bef33fd58ce1ec87ab
+SHA1: 845616b6decabd055dc134f42c17a2386e078d40
+SHA256: aed48e298b1df0590fd8f5fccea91ee0e72fd75b72da89ec078d93b4820f0e82
+SHA512: 9d559083d24b205d60fd6d89df0e9626213ff955985015404056eff528250ba2571c065353fb2bba701496eb45a6370eef9aa1543f8e5c701e93d5d3cd3ac19a
+Description: Cài đặt Font chữ cho iPhone của bạn!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: Cài đặt Font chữ cho iPhone của bạn!
+SileoDepiction: Cài đặt Font chữ cho iPhone của bạn!
+
+Package: com.longmen06.cydiasubstrate
+Architecture: iphoneos-arm
+Version: 0.9.7113
+Priority: optional
+Section: System
+Maintainer: Long Mến❤️ <adminlongmen06@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Filename: ./DEB/com.longmen06.cydiasubstrate_0.9.7113_iphoneos-arm.deb
+Size: 6359140
+MD5sum: 508e8dd56d67bf8d0582674e82331f97
+SHA1: b81f2b0803cf43d781e3ee36e0fb05b84a27680c
+SHA256: 7aba9794aae9f46afc7956feb3ae5367469830f8d5f6463ebd83c170c5952e99
+SHA512: 03efbb2b42d65e431ac4d577875f966998203aae6cb0b2fa97a6d86bee4d83d59db1b4db1d9b008b50250f9334317d93cb963895915beff289d7bf2be76140fb
+Description: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+
+Package: com.longmen06.cydiavn
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Addons
+Maintainer: Long Mến❤️ <adminlongmen06@gmail.com>
+Depends: org.coolstar.sileo
+Filename: ./DEB/com.longmen06.cydiavn_1.0.9_iphoneos-arm.deb
+Size: 7868
+MD5sum: b7f217b384cc32c90a8c76f77b36d122
+SHA1: a59a25a343bbf1012d3dc4b3b9159e2b46b6182a
+SHA256: ab976566da5219e2f6c1e656921d5329290b0fa06c629f2c74d36ad75fa2925b
+SHA512: 8a4369ba3bf0f5d9bbfa9aca8f1c17d5c165c275078c1871f2033c36c742c93b8c31cc8226e4420e33da64945454f4a475633a4e2bc6ab637798b9c41ea182dd
+Description: Thêm tiếng việt cho Trình Quản Lý Gói Cydia phiên bản cũ đuợc jailbreak từ ios 8 trở xuống không hỗ trợ tiếng việt
+Name: Cydia (Gói Tiếng Việt)
+Author: Long Mến❤️ <adminlongmen06@gmail.com>
+
+Package: com.longmen06.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0~release
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.xenhtml_2.0~release_iphoneos-arm.deb
+Size: 8254098
+MD5sum: 593079d53fe967555a31f2532d4a66ba
+SHA1: 3548fde6109e7f4f364b3afcf6af127cbf0683da
+SHA256: c41f40e2398484cb1c4b587be43cfc18a48c0470118f2d247fb743ba6dbed09b
+SHA512: e0ef88be8d1a3db2970176eb09d0bb5af363e17658280c9d13c65b73234772222ec0f53b7eb49ef7c63b97dde850156194e18fda109341a3a4df56d13ed123a4
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML
+Author: Matt Clarke
+Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
+
+Package: libclang-cpp10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+247e5b37d63-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 81400
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libllvm10
+Filename: ./DEB/libclang-cpp10_10.0.0~svn-20200108+247e5b37d63-1_iphoneos-arm.deb
+Size: 8597288
+MD5sum: ef16bc067cd58362213b1f6ffd8b64a0
+SHA1: a90ebcca183672cc2d6e23f756772c54f5c22864
+SHA256: a8d27373403861486897d121bdf56fb89f437eeb8f1910bb04faf07fce7bb82e
+SHA512: efef85e05c979fef26d2123cd3d5c2f42f4554faa83d832c38fcf0d33bd244b106f3df1935b84e54835150b1837c9219bf6ac72f11466c31b663c15699ca9db1
+Description: Modular compiler and toolchain technologies, runtime library
+
+Package: libllvm10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+247e5b37d63-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 141136
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses (>= 6.0)
+Filename: ./DEB/libllvm10_10.0.0~svn-20200108+247e5b37d63-1_iphoneos-arm.deb
+Size: 14577902
+MD5sum: 92ac0a620b207e690804f4ee1616eac0
+SHA1: 77c5756e01c62a0c50894e185c641a06d8efb4a3
+SHA256: fe1ae644e900c9388dd2fb0867f5fecd6b40c61b18b5d4451a5fc1686855ffed
+SHA512: 0708ae05b54564c8ca697a974e4adac1262a17201c9f159d80cb341c94cd4d2a1f919349eb0550c5cc6cd495ec01e0e2ef04c117f6f68cd7f54b3fc3da3e9379
+Description: Modular compiler and toolchain technologies, runtime library
+

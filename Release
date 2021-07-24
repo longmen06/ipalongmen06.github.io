@@ -1,0 +1,11 @@
+Origin: Cydia.vn
+Label: Cydia.vn
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: https://www.facebook.com/longmenjailbreak/
+MD5Sum:
+ 14ea0b0bd3b53a632d523897d46e2398 6237 Packages
+ 9add8a0742a12ea2e5cc00c332e80064 2896 Packages.bz2
