@@ -14,3 +14,112 @@ Description: Thêm tiếng việt cho Trình Quản Lý Gói Cydia phiên bản 
 Name: Cydia (Gói Tiếng Việt)
 Author: Long Mến❤️ <adminlongmen06@gmail.com>
 
+Package: vn.cydia.cydia
+Architecture: iphoneos-arm
+Version: 1.1.36
+Priority: required
+Section: Packaging
+Maintainer: Cydia.vn <longmenjailbreak@gmail.com>
+Installed-Size: 6472
+Provides: bigbossbetarepo, cydia-sources
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./DEB/vn.cydia.cydia_1.1.36_iphoneos-arm.deb
+Size: 1510848
+MD5sum: cf69880c888a41fc28c9d2c17bc6441a
+SHA1: 153e5d09253094f129dcabdbc7713132d8526a2e
+SHA256: 8a7a7a50e510829cde4ca39f59de6b973606377012a9f4e2e5ddbcc341c3ed7a
+SHA512: 25c46fa3c5aecb44cc2a9c053c124e0b0b6467f6deb9ce1a5a93b6751cf0473130b369646ff417116e17b536c607c9925b640adf79bdd49f60000c4e978210f8
+Description: Trình cài đặt cydia cho iphone/ipad đã jailbreak (root)
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: Trình cài đặt cydia cho iphone/ipad đã jailbreak (root)
+Icon: file:///Applications/Cydia.app/Icon-60.png
+
+Package: vn.cydia.cydiasubstrate
+Architecture: iphoneos-arm
+Version: 0.9.7113
+Priority: optional
+Section: System
+Maintainer: Cydia.vn <adminlongmen06@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Filename: ./DEB/vn.cydia.cydiasubstrate_0.9.7113_iphoneos-arm.deb
+Size: 6359126
+MD5sum: f845edc303801951488d5701645fa9dc
+SHA1: 758ae318f4e4e9afad16fee964f36cfc9ed6313d
+SHA256: 5cd59ae797e32d86d04f77efdd44c43913ca40c12ec404f1dabe3da4cf841699
+SHA512: 5d8cc9e54e2126da39d397e7228d6db24172acca88493c330a2cbb26f4d4677865241d7536ce967f32795f0d7936a27216d738766fcf47da76ad1b5149e92142
+Description: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+
+Package: vn.cydia.sileo
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Addons
+Maintainer: Cydia.vn <adminlongmen06@cydiavn.com>
+Depends: org.coolstar.sileo
+Filename: ./DEB/vn.cydia.sileo_1.0.9_iphoneos-arm.deb
+Size: 6294
+MD5sum: 3a5e9b5c0240c325e23872c3a01e4573
+SHA1: 5fd22d3970ffc6f4c156768f08f738bc42cd7e98
+SHA256: 72609632fbe3d7728181781f1729fa4aaa9fe4f7446fd8029eb96aa319111f89
+SHA512: 20f7531346421560cda22b09399ee62564a068ca529c8a8765f05f20c6229989103d285ee37ea1919595129a34b03d3e2deb542e17f51df02ffa0208f9f72c35
+Description: Thêm tiếng việt cho Trình Quản Lý Gói Sileo
+Name: Sileo (Gói Tiếng Việt)
+Author: Long Mến❤️ <adminlongmen06@cydiavn.com>
+
+Package: vn.cydia.sileo
+Architecture: iphoneos-arm
+Version: 2.0.2-tale1
+Priority: required
+Section: Packaging
+Maintainer: Long Mến❤️ <support@renai.me>
+Installed-Size: 12476
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: ./DEB/vn.cydia.sileo_2.0.2-tale1_iphoneos-arm.deb
+Size: 4575834
+MD5sum: 71ae6d6b61faf55365c6d5fc7f8332e7
+SHA1: 4871f6e63fab6f4311b361df8433e406e62a9fdf
+SHA256: 12d013a09656b2ba74c748467a20bb0d0d55cfeb6873916638d2b83f6442b1dc
+SHA512: 14a45f6aa6d3ffc89640571eb2f8592ee392b96739554cc76788f38a81f4e95e16fd401e52c76521a0cd81f6650afd22377db98a7c64c68fb4a551de269c776f
+Description: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi longmen06 (Công dụng giống như Cydia)
+Tag: cydia::essential
+Icon: https://Applications/Sileo.app/AppIcon60x60@2x.png
+SileoDepiction: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi Cydia.vn (Công dụng giống như Cydia)
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+
+Package: vn.cydia.substitute
+Architecture: iphoneos-arm
+Version: 2.1.0
+Priority: optional
+Section: System
+Maintainer: Cydia.vn
+Installed-Size: 26968
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6005), uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
+Breaks: com.saurik.substrate.safemode (<<0.9.6004)
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Filename: ./DEB/vn.cydia.substitute_2.1.0_iphoneos-arm.deb
+Size: 11105600
+MD5sum: 2a0e37d1b2f5296139e4ffe5d92e8640
+SHA1: 1196187546bcdfc8b63705af51b535b1461d2c64
+SHA256: d975257111a6c1630393b1aad3f3fed3d6cc14a0c28260e5baed043d61464d82
+SHA512: 4c7b253c49171d755ac94f46039909f61c361356889c6fbbcb73211c9a5ab849a8195d8b3eebcbb6cbf50ff4d345bb77a821a3fe4f13da3ddafcd5a15f6b2788
+Description: Một tinh chỉnh quan trọng cho các thiết bị đã jailbreak
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
