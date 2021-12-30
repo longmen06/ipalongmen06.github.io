@@ -20,13 +20,13 @@
     justify-content: center;
     position: fixed;
     left: 6.3%;
-    bottom: 0px;
+    bottom: 10px;
     z-index: 99;
     text-align: center;
     display: block;
     padding: 15px;
     margin-bottom: 10px;
-    width: 80%;
+    width: 60%;
     opacity: 50;
     background: #000;
     border-radius: 20px;
