@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\bin\Debug\Long Mến Jailbreak.exe.config
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\bin\Debug\Long Mến Jailbreak.exe.manifest
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\bin\Debug\Long Mến Jailbreak.application
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\bin\Debug\Long Mến Jailbreak.exe
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\bin\Debug\Long Mến Jailbreak.pdb
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak_MarkupCompile.lref
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.g.resources
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.TrustInfo.xml
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.exe.manifest
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.application
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.exe
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\obj\Debug\Long Mến Jailbreak.pdb

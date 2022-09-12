@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Long Mến Jailbreak" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.647,0.556">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="18*"/>
+            <ColumnDefinition Width="23*"/>
+            <ColumnDefinition Width="719*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Left" Height="92" Margin="280,75,0,0" TextWrapping="Wrap" Text="Long Mến Jailbreak" VerticalAlignment="Top" Width="104"/>
+        <CheckBox Grid.Column="3" Content="Tích Để Đồng ý Jailbreak Máy&#xD;&#xA;" HorizontalAlignment="Left" Margin="244,0,0,0" VerticalAlignment="Center" Checked="CheckBox_Checked"/>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Left" Margin="160,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="56" Width="376"><Run Text="Jailbreak IOS 11 - IOS 14 Hộ Trợ Từ Aplle Iphone 5s Đến Iphone X"/><LineBreak/><Run/></TextBlock>
+        <Button Grid.Column="3" Content="Jailbreak" HorizontalAlignment="Left" Margin="307,255,0,0" VerticalAlignment="Top"/>
+        <Image Grid.Column="3" Margin="20,19,621,335" Source="/longmen.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>
